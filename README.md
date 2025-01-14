@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Development
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Brief description of understanding. Use any combination of markdown techniques.
 
 ### Node.js Understanding
 
