@@ -2,7 +2,16 @@
 
 ### Full-Stack Web Development
 
-Brief description of understanding. Use any combination of markdown techniques.
+Full-Stack Web Development is the practice of creating both the front-end and back-end aspects of a website. Developers commonly use the languages/tools such as (but not limited to):
+
+- HTML
+- CSS
+- Javascript
+- SQL
+- PHP
+- Flask
+- Node.js
+- MongoDB
 
 ### Node.js Understanding
 
